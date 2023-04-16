@@ -1,0 +1,32 @@
+.new-expense {
+  background-color: #284B63;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 45%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px #19303f;
+}
+
+.new-expense button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid #284B63;
+  background-color: #44789b;
+  color: white;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+
+.new-expense button:hover,
+.new-expense button:active {
+  background-color:#44789b;
+  border-color: #44789b;
+  transform: scale(1.15);
+}
+
+
+
+
